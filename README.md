@@ -1,2 +1,3 @@
 # Radency_Task3
-npm start
+
+ npx ts-node src/routes/app.ts
